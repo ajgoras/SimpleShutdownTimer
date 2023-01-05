@@ -10,7 +10,7 @@ You can download working application downloading [app.zip](https://github.com/aj
 
 #### _Screenshots:_
 
-![Screenshot](https://i.ibb.co/2yVJCwq/ss.jpg)  
+![Screenshot](https://raw.githubusercontent.com/ajgoras/SimpleShutdownTimer/main/images/1.jpeg)  
 
-![Screenshot2](https://i.ibb.co/6yZnvMc/sss.jpg)
+![Screenshot2](https://raw.githubusercontent.com/ajgoras/SimpleShutdownTimer/main/images/2.jpeg)
 
